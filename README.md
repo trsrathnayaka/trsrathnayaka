@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/trsrathnayaka)
 
-[![@trsrathnayaka's Holopin board](https://holopin.me/trsrathnayaka)](https://holopin.io/@trsrathnayaka)
 
 
 
