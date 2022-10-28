@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning BSc honours Software Engineering
 - 👯 I’m looking to collaborate on youtube
 
+https://github.com/ https://www.linkedin.com/in/thevindu-ransara-rathnayaka-20270921a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtzKFjHi1S6Sqh8iMltihYQ%3D%3D
+
+
 
