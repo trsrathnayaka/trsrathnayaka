@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase"/>&nbsp;&nbsp;
 </div>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=trsrathnayaka)  
 
 
 
