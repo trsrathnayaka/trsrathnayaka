@@ -29,8 +29,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase"/>&nbsp;&nbsp;
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trsrathnayaka)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=trsrathnayaka&show_icons=true)  
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=trsrathnayaka)  
 
+![Profile views](https://gpvc.arturio.dev/trsrathnayaka)
 
 
 
