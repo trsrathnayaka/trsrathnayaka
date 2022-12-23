@@ -1,7 +1,6 @@
-<img src="https://img.shields.io/badge/Hackerrank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"/>
-  </a>
-</div>
-
+<div>
+<img src="https://gpvc.arturio.dev/avishka2k" alt=""/>
+<img src="https://gpvc.arturio.dev/nawam727" alt=""/>
 <h1>
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,<br/> I am Thevindu Ransara 
 </h1>
