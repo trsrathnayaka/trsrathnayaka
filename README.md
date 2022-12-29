@@ -40,13 +40,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase"/>&nbsp;&nbsp;
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trsrathnayaka)](https://github.com/trsrathnayaka/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trsrathnayaka&layout=compact&theme=dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=trsrathnayaka&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=trsrathnayaka&show_icons=truetheme=dark&include_all_commits=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=trsrathnayaka)  
 
 ![Profile views](https://gpvc.arturio.dev/trsrathnayaka)
+
+
 
 
 
