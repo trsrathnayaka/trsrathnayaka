@@ -4,7 +4,7 @@
   <a href="mailto:ransararathnayaka85@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/Thevindu Ransara Rathnayaka" target="_blank">
+  <a href="https://www.linkedin.com/in/thevindu-ransara-rathnayaka-20270921a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/Thevindu Ransara/" target="_blank">
