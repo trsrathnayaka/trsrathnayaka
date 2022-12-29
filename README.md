@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trsrathnayaka&layout=compact&theme=dark)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trsrathnayaka&show_icons=true&theme=radical" alt="trsrathnayaka" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trsrathnayaka&show_icons=true&theme=radical" alt="trsrathnayaka" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trsrathnayaka&&show_icons=true&theme=radical" alt="trsrathnayaka" /></p>
