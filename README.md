@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trsrathnayaka" alt="trsrathnayaka" /></a> </p>
+
 ### Tools and Technologies
 
 
@@ -59,7 +61,7 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=trsrathnayaka&show_icons=truetheme=dark&include_all_commits=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=trsrathnayaka)  
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trsrathnayaka&&show_icons=true&theme=radical" alt="trsrathnayaka" /></p>
 
