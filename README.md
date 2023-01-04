@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase"/>&nbsp;&nbsp;
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trsrathnayaka&layout=compact&theme=dark)
+<a href="http://www.github.com/trsrathnayaka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=trsrathnayaka&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trsrathnayaka&show_icons=true&theme=radical" alt="trsrathnayaka" /></p>
