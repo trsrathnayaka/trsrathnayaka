@@ -19,28 +19,35 @@
 </h1>
 </div>
 
+<div align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=27&duration=4000&color=002395&background=EB00FF00&center=true&vCenter=true&width=600&lines=I'M++FULL++STACK++DEVELOPER++FROM++SRI++LANKA;SOFTWARE+DESIGNER;WEB-DEVELOPER;UI%2FUX++DESIGNER;BACK-END+DEVELOPER;FRONT-END+DEVELOPER)](https://git.io/typing-svg)
+</div>
+
+<img align="right" alt="Coding" width="500" src="https://i0.wp.com/webbuildinfotech.com/wp-content/uploads/2022/07/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif?fit=640%2C640&ssl=1">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trsrathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="trsrathnayaka" /> </p>
 
 
+- 👨‍🎓 I'm University Student
 
-I'm Programmer
+- 🌱 I'm currently studying in BSc honours Software Engineering degree programme at NSBM Green University
 
-I'm currently studying in BSc honours Software Engineering degree programme at NSBM Green University
-
-Skills: JAVA / C / JS / HTML / CSS / Flutter / figma / web development
+- 👨‍💻 Skills: JAVA / C / JS / HTML / CSS / Flutter / figma / web development
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning BSc honours Software Engineering
 - 👯 I’m looking to collaborate on youtube
+- 📫 How to reach me **ransararathnayaka85@gmail.com**
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/trsrathnayaka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thevindu-ransara-rathnayaka-20270921a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/dashboard) 
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-# Github Trophies
+# 🛠️ Github Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trsrathnayaka" alt="trsrathnayaka" /></a> </p>
 
-# Tools and Technologies
+# 🛠️ Tools and Technologies
 
 
 <div id="header" align="center">
@@ -58,21 +65,21 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase"/>&nbsp;&nbsp;
 </div>
 
-# Most use languages
+# 🛠️ Most use languages
 
 <a href="https://github.com/trsrathnayaka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trsrathnayaka&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trsrathnayaka&theme=tokyonight" />
 
-# Github stats
+# 🛠📊 Github stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trsrathnayaka&show_icons=true&theme=radical" alt="trsrathnayaka" /></p>
 
-# Streak stats
+# 🔥 Streak stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trsrathnayaka&&show_icons=true&theme=radical" alt="trsrathnayaka" /></p>
 
-# Github stats for graph
+# 📊 Github stats for graph
 
 <p align="center">
   
