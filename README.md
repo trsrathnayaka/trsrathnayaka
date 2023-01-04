@@ -68,7 +68,16 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trsrathnayaka&&show_icons=true&theme=radical" alt="trsrathnayaka" /></p>
 
+<p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trsrathnayaka&theme=monokai" />
+  
+ <p>
+<!-- https://github.com/trsrathnayaka/github-readme-stats -->
+<!-- https://github.com/trsrathnayaka/github-readme-activity-graph 
 
+<a href="https://github.com/trsrathnayaka/github-readme-activity-graph"><img alt="trsrathnayaka's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=trsrathnayaka&theme=react-dark&hide_border=true" /></a>-->
+[![trsrathnayaka's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=trsrathnayaka&theme=react-dark)](https://github.com/trsrathnayaka/github-readme-activity-graph)
 
 
 
