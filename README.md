@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 # Github Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trsrathnayaka" alt="trsrathnayaka" /></a> </p>
 
-### Tools and Technologies
+# Tools and Technologies
 
 
 <div id="header" align="center">
@@ -58,15 +58,21 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase"/>&nbsp;&nbsp;
 </div>
 
-# My Github Stats
+# Most use languages
 
 <a href="https://github.com/trsrathnayaka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trsrathnayaka&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trsrathnayaka&theme=tokyonight" />
+
+# Github stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trsrathnayaka&show_icons=true&theme=radical" alt="trsrathnayaka" /></p>
 
+# Streak stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trsrathnayaka&&show_icons=true&theme=radical" alt="trsrathnayaka" /></p>
+
+# Github stats for graph
 
 <p align="center">
   
