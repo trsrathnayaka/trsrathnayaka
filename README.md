@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 # 🛠📊 Github stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trsrathnayaka&show_icons=true&theme=radical" alt="trsrathnayaka" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trsrathnayaka&layout=compact&theme=dark)
 
 # 🔥 Streak stats
 
