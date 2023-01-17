@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 # 🛠📊 Github stats
 
 
-
+![Thevindu 's GitHub stats](https://github-readme-stats.vercel.app/api?username=trsrathnayaka&show_icons=true&theme=dark&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trsrathnayaka&layout=compact&theme=dark)
 
