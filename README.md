@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-blender-F24E1E?style=flat-square&logo=blender&logoColor=white"/>&nbsp;&nbsp;
 </div>
 
 # 🛠️ Most use languages
