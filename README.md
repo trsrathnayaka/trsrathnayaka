@@ -64,6 +64,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-blender-F24E1E?style=flat-square&logo=blender&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-python-F24E1E?style=flat-square&logo=python&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-AdobeIllustrator-F24E1E?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Android studio-F24E1E?style=flat-square&logo=Android studio&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-visual studio-F24E1E?style=flat-square&logo=visual studio&logoColor=white"/>&nbsp;&nbsp;
+
+
+
 </div>
 
 # 🛠️ Most use languages
