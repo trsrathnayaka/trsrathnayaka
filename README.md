@@ -68,6 +68,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-AdobeIllustrator-F24E1E?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Android studio-F24E1E?style=flat-square&logo=Android studio&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-visual studio-F24E1E?style=flat-square&logo=visual studio&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-C#-F24E1E?style=flat-square&logo=C#&logoColor=white"/>&nbsp;&nbsp;
+
 
 
 
