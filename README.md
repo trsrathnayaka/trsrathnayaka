@@ -82,6 +82,17 @@ Here are some ideas to get you started:
 
 </div>
 
+**🐱 My GitHub Data** 
+
+
+@@ -83,13 +83,13 @@ I'm <strong>Thevindu Ransara Rathnayaka</strong>, Software Engineering Undergraduate from
+🌞 Morning                2002 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+🌆 Daytime                3638 commits        ████████░░░░░░░░░░░░░░░░░   32.55 % 
+🌃 Evening                3805 commits        █████████░░░░░░░░░░░░░░░░   34.05 % 
+🌙 Night                  1731 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+🌙 Night                  1730 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+
+
 # 🛠️ Most use languages
 
 <a href="https://github.com/trsrathnayaka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trsrathnayaka&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
