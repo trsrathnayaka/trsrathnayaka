@@ -44,8 +44,37 @@ Here are some ideas to get you started:
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-# 🛠️ Github Trophies
-<p align="left"> <a href="https://github.com/trsrathnayaka/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trsrathnayaka" alt="trsrathnayaka" /></a> </p>
+## Skills and Experience
+🔴 <strong>Programming Languages</strong>
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge//HTML-E34F26?logo=html5&style=flat-square&logoColor=white)
+![](https://img.shields.io/badge//CSS-1572B6?logo=css3&style=flat-square&logoColor=white)
+
+🔴 <strong>Frameworks</strong>
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+🔴 <strong>Libraries</strong>
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+🔴 <strong>Databases</strong>
+![](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+🔴 <strong>Tools and Services</strong>
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](	https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
+<img src="https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-blender-F24E1E?style=flat-square&logo=blender&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-AdobeIllustrator-F24E1E?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Android studio-F24E1E?style=flat-square&logo=Android studio&logoColor=white"/>&nbsp;&nbsp;
 
 # 🛠️ Tools and Technologies
 
