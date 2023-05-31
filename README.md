@@ -75,6 +75,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/-blender-F24E1E?style=for-the-badge&logo=blender&logoColor=white)
+![](https://img.shields.io/badge/-AdobeIllustrator-F24E1E?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![](https://img.shields.io/badge/--Android studio-F24E1E?style=for-the-badge&logo=androidstudion&logoColor=white)
 
 # 🛠️ Tools and Technologies
 
