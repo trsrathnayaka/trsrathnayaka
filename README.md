@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge//HTML-E34F26?logo=html5&style=flat-square&logoColor=white)
-![](https://img.shields.io/badge//CSS-1572B6?logo=css3&style=flat-square&logoColor=white)
+![](https://img.shields.io/badge//HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
+![](https://img.shields.io/badge//CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 🔴 <strong>Frameworks</strong>
 
@@ -72,15 +72,9 @@ Here are some ideas to get you started:
 🔴 <strong>Tools and Services</strong>
 
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
-![](https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress&logoColor=white)
-![](https://img.shields.io/badge/-figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/-blender-F24E1E?style=flat-square&logo=blender&logoColor=white)
-![](https://img.shields.io/badge/-AdobeIllustrator-F24E1E?style=flat-square&logo=AdobeIllustrator&logoColor=white)
-![](https://img.shields.io/badge/-Android studio-F24E1E?style=flat-square&logo=Android studio&logoColor=white)
 
 # 🛠️ Tools and Technologies
 
