@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 # 🛠️ Most use languages
 
-<a href="https://github.com/trsrathnayaka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trsrathnayaka&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trsrathnayaka&layout=compact&theme=dark)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trsrathnayaka&theme=tokyonight" />
