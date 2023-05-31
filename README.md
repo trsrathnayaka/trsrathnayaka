@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/-blender-F24E1E?style=for-the-badge&logo=blender&logoColor=white)
 ![](https://img.shields.io/badge/-AdobeIllustrator-F24E1E?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![](https://img.shields.io/badge/--Android studio-F24E1E?style=for-the-badge&logo=androidstudion&logoColor=white)
+![](https://img.shields.io/badge/-Android studio-F24E1E?style=for-the-badge&logo=android studion&logoColor=white)
 
 # 🛠️ Tools and Technologies
 
