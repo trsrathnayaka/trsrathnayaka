@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
    <a href="https://www.tiktok.com/@thevindurathnayak6?lang=en" target="_blank">
-    <img src="https://img.shields.io/badge/Tiktok-blue?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
+    <img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
   </a>
 </div>
 
