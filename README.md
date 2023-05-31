@@ -72,15 +72,15 @@ Here are some ideas to get you started:
 🔴 <strong>Tools and Services</strong>
 
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](	https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
-<img src="https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-blender-F24E1E?style=flat-square&logo=blender&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-AdobeIllustrator-F24E1E?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Android studio-F24E1E?style=flat-square&logo=Android studio&logoColor=white"/>&nbsp;&nbsp;
+![](https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress&logoColor=white)
+![](https://img.shields.io/badge/-figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/-blender-F24E1E?style=flat-square&logo=blender&logoColor=white)
+![](https://img.shields.io/badge/-AdobeIllustrator-F24E1E?style=flat-square&logo=AdobeIllustrator&logoColor=white)
+![](https://img.shields.io/badge/-Android studio-F24E1E?style=flat-square&logo=Android studio&logoColor=white)
 
 # 🛠️ Tools and Technologies
 
