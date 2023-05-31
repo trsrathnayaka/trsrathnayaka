@@ -56,15 +56,19 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge//CSS-1572B6?logo=css3&style=flat-square&logoColor=white)
 
 🔴 <strong>Frameworks</strong>
+
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 🔴 <strong>Libraries</strong>
+
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 🔴 <strong>Databases</strong>
+
 ![](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 🔴 <strong>Tools and Services</strong>
+
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](	https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
