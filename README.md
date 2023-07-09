@@ -34,7 +34,7 @@
 
 - 🌱 I'm currently studying in BSc honours Software Engineering degree programme at NSBM Green University
 
-- 👨‍💻 Skills: JAVA / C / JS / HTML / CSS / Flutter / figma / web development
+- 👨‍💻 Skills: JAVA / C / JS / HTML / CSS / Flutter / Figma / web development / Mobile App Development / 3D design
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on this page.
