@@ -23,7 +23,7 @@
 
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=27&duration=4000&color=002395&background=EB00FF00&center=true&vCenter=true&width=600&lines=I'M++FULL++STACK++DEVELOPER++FROM++SRI++LANKA;SOFTWARE+DESIGNER;WEB-DEVELOPER;UI%2FUX++DESIGNER;BACK-END+DEVELOPER;FRONT-END+DEVELOPER;3D DESIGNER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=27&duration=4000&color=002395&background=EB00FF00&center=true&vCenter=true&width=600&lines=I'M++FULL++STACK++DEVELOPER++FROM++SRI++LANKA;SOFTWARE+DESIGNER;WEB-DEVELOPER;UI%2FUX++DESIGNER;BACK-END+DEVELOPER;FRONT-END+DEVELOPER)](https://git.io/typing-svg)
 </div>
 
 <img align="right" alt="Coding" width="500" src="https://i0.wp.com/webbuildinfotech.com/wp-content/uploads/2022/07/Professional_full_stack_web_development_service_in_srilanka-_Full_stack_web_developer.gif?fit=640%2C640&ssl=1">
