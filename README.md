@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 <a href="https://dribbble.com/ransara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ransara" height="30" width="40" /></a>
 <a href="https://www.behance.net/SLCODEACADEMY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="trsrathnayaka" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@CodeRanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trsrathnayaka" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@thevindurathnayak6?lang=en" target="_blank"><img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/></a>
 </p>
 <br>
 <h2 align="left">💻 Languages and Tools:</h2>
