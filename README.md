@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 <a href="https://fb.com/Thevindu Rathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Thevindu Rathnayaka" height="30" width="40" /></a>
 <a href="https://instagram.com/rathnayakathevindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rathnayakathevindu" height="30" width="40" /></a>
 <a href="https://dribbble.com/ransara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ransara" height="30" width="40" /></a>
+<a href="https://www.behance.net/SLCODEACADEMY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="trsrathnayaka" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CodeRanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trsrathnayaka" height="30" width="40" /></a>
 </p>
 <br>
 <h2 align="left">💻 Languages and Tools:</h2>
