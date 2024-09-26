@@ -31,7 +31,7 @@
 
 <h2 align="left">💫 About Me:</h2>
 
-- 👨‍🎓 I'm University Student
+- 👨‍🎓 I'm a University Student
 
 - 🌱 I'm currently studying in BSc honours Software Engineering degree programme at NSBM Green University
 
@@ -40,7 +40,7 @@
 Here are some ideas to get you started:
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning BSc honours Software Engineering
-- 👯 I’m looking to collaborate on youtube
+- 👯 I’m looking forward to collaborate on youtube
 - 📫 How to reach me **ransararathnayaka85@gmail.com**
 
 <h2 align="left">🌐 Connect with me:</h2>
