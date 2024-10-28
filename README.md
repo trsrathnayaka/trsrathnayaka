@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning BSc honours Software Engineering
 - 👯 I’m looking forward to collaborate on youtube
-- 📫 How to reach me **ransararathnayaka85@gmail.com**
+- 📫 How to reach me **codehunter535@gmail.com**
 
 <h2 align="left">🌐 Connect with me:</h2>
 <p align="left">
